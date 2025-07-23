@@ -1,0 +1,2 @@
+datasets1/** filter=lfs diff=lfs merge=lfs -text
+datasets2/** filter=lfs diff=lfs merge=lfs -text
