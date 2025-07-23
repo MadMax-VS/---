@@ -5,8 +5,8 @@
 ### 数据集说明
 
 1.  此数据集分为两个不同类别，其中**datasets1**适用本次实训的**YOLOv5**项目，**datasets2**适用于其余（**YOLOv8/YOLOv10/YOLO-AttLite**）项目；
+2.  请注意，替换文件夹时请保证项目中**源文件夹**的名称始终不变；
+3.  对于**datasets1**，替换至**YOLOv5/datasets**文件夹下的**split_dataset**文件夹里的内容，即可实现数据集部署使用；
+4.  对于**datasets2**，替换至每个项目中**datasets/images和datasets/labels**文件夹，即可实现数据集部署使用；
 
-2.  对于**datasets1**，替换至**YOLOv5**项目中**datasets**文件夹下的**split_dataset**文件夹，即可实现数据集部署使用；
-3.  对于**datasets2**，替换至每个项目中**datasets**文件夹下的**images和labels**文件夹，即可实现数据集部署使用；
-
-4.  **YOLOv8-detectionSoftware**为最终检测软件系统项目，无需下载数据集即可使用。
+5.  **YOLOv8-detectionSoftware**为最终检测软件系统项目，无需下载数据集即可使用。
